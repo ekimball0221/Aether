@@ -1,0 +1,15 @@
+[package]
+name = "aether"
+version = "0.1.0"
+edition = "2021"
+authors = ["You <ekimball@braidedsoftware.com>", "Grok <grok@x.ai>"]
+description = "Aether → the AI-first systems programming language"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/ekimball0221/Aether.git"
+keywords = ["programming-language", "compiler", "ai", "systems"]
+categories = ["compilers", "development-tools"]
+
+[dependencies]
+# We’ll fill these as we go — keeping it lean for now
+
+[dev-dependencies]
